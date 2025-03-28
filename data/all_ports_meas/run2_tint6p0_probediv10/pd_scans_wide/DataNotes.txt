@@ -1,0 +1,104 @@
+
+- LP11a_post_iefc
+    Demo for Yinzi.
+    * Yinzi Intros.
+    Scan params:
+        isZab:         true
+        isVortScan:    false
+        Vortex pos:    x = 15.547709mm    y = 12.836536mm
+        Vbacklash:     0.040mm
+        v scan param:  vYpoi = 1, vXpoi = 1, vStepRange = 0.10
+        Laser power:   TLX2, 1568.772nm, 9.6dBm
+        Optical Filt:  N/A
+        Vortex Mask:   N/A
+        scan center    (6.682200 mm,-9.186300 mm, -6.596000 mm)
+        Scan params:   xpoi = 30, zpoi = 1, refStep = 45, stepsize = 45/(30/1e-3); zstep = 0.002 mm
+        isAutoScale:   true
+        Femto:         FMTO_scale = 6; Nread = 100
+        redPM norm:    isPMNorm = true; nrmValReport =  1.00; pmCalWavelength = 1569nm
+        isMMFNorm: false
+
+
+      - Max/Min ratio in Frame = (4.495074/0.001165)    ------> = 3858.69
+      - Eta_s = (0.001165*0.054718) w/ approx vals for thrpt -> = 0.000064
+      - Eta_p = (4.495074*0.054718) w/ approx vals for thrpt -> = 0.245961
+      - Average Eta_p w/ approx vals for thrpt          ------> = 0.094433
+      - Rel. Int. Time = (0.000064/0.094433 ^2) w/ rad Avg ---> = 0.007148
+
+- LP11b_post_iefc
+    Demo for Yinzi.
+    * Yinzi Intros.
+    Scan params:
+        isZab:         true
+        isVortScan:    false
+        Vortex pos:    x = 15.547709mm    y = 12.836536mm
+        Vbacklash:     0.040mm
+        v scan param:  vYpoi = 1, vXpoi = 1, vStepRange = 0.10
+        Laser power:   TLX2, 1568.772nm, 9.6dBm
+        Optical Filt:  N/A
+        Vortex Mask:   N/A
+        scan center    (6.682200 mm,-9.186300 mm, -6.596000 mm)
+        Scan params:   xpoi = 30, zpoi = 1, refStep = 45, stepsize = 45/(30/1e-3); zstep = 0.002 mm
+        isAutoScale:   true
+        Femto:         FMTO_scale = 6; Nread = 100
+        redPM norm:    isPMNorm = true; nrmValReport =  1.00; pmCalWavelength = 1569nm
+        isMMFNorm: false
+
+
+      - Max/Min ratio in Frame = (4.094687/0.001600)    ------> = 2558.65
+      - Eta_s = (0.001600*0.054726) w/ approx vals for thrpt -> = 0.000088
+      - Eta_p = (4.094687*0.054726) w/ approx vals for thrpt -> = 0.224087
+      - Average Eta_p w/ approx vals for thrpt          ------> = 0.088790
+      - Rel. Int. Time = (0.000088/0.088790 ^2) w/ rad Avg ---> = 0.011109
+
+- LP21a_post_iefc
+    Demo for Yinzi.
+    * Yinzi Intros.
+    Scan params:
+        isZab:         true
+        isVortScan:    false
+        Vortex pos:    x = 15.547709mm    y = 12.836536mm
+        Vbacklash:     0.040mm
+        v scan param:  vYpoi = 1, vXpoi = 1, vStepRange = 0.10
+        Laser power:   TLX2, 1568.772nm, 9.6dBm
+        Optical Filt:  N/A
+        Vortex Mask:   N/A
+        scan center    (6.682200 mm,-9.186300 mm, -6.596000 mm)
+        Scan params:   xpoi = 30, zpoi = 1, refStep = 45, stepsize = 45/(30/1e-3); zstep = 0.002 mm
+        isAutoScale:   true
+        Femto:         FMTO_scale = 6; Nread = 100
+        redPM norm:    isPMNorm = true; nrmValReport =  1.00; pmCalWavelength = 1569nm
+        isMMFNorm: false
+
+
+      - Max/Min ratio in Frame = (1.975513/0.002110)    ------> = 936.42
+      - Eta_s = (0.002110*0.054684) w/ approx vals for thrpt -> = 0.000115
+      - Eta_p = (1.975513*0.054684) w/ approx vals for thrpt -> = 0.108029
+      - Average Eta_p w/ approx vals for thrpt          ------> = 0.016915
+      - Rel. Int. Time = (0.000115/0.016915 ^2) w/ rad Avg ---> = 0.403211
+
+- LP21b_post_iefc
+    Demo for Yinzi.
+    * Yinzi Intros.
+    Scan params:
+        isZab:         true
+        isVortScan:    false
+        Vortex pos:    x = 15.547709mm    y = 12.836536mm
+        Vbacklash:     0.040mm
+        v scan param:  vYpoi = 1, vXpoi = 1, vStepRange = 0.10
+        Laser power:   TLX2, 1568.772nm, 9.6dBm
+        Optical Filt:  N/A
+        Vortex Mask:   N/A
+        scan center    (6.682200 mm,-9.186300 mm, -6.596000 mm)
+        Scan params:   xpoi = 30, zpoi = 1, refStep = 45, stepsize = 45/(30/1e-3); zstep = 0.002 mm
+        isAutoScale:   true
+        Femto:         FMTO_scale = 6; Nread = 100
+        redPM norm:    isPMNorm = true; nrmValReport =  1.00; pmCalWavelength = 1569nm
+        isMMFNorm: false
+
+
+      - Max/Min ratio in Frame = (1.302372/0.001583)    ------> = 822.63
+      - Eta_s = (0.001583*0.054872) w/ approx vals for thrpt -> = 0.000087
+      - Eta_p = (1.302372*0.054872) w/ approx vals for thrpt -> = 0.071463
+      - Average Eta_p w/ approx vals for thrpt          ------> = 0.010052
+      - Rel. Int. Time = (0.000087/0.010052 ^2) w/ rad Avg ---> = 0.859713
